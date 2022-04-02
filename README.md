@@ -1,2 +1,2 @@
-# Basic_Python_codes
-In this Repository Some basic concept of Python code is Store.
+# Basic_Python
+In this Repository Some basic Python code is Store.
